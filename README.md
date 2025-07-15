@@ -1,1 +1,3 @@
 # Palladium Generator
+
+## Contributing
